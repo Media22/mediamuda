@@ -15,7 +15,7 @@ https://my.odtv.uk/live/9486331171/7860879594/208.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/100px-TV3_%28Malaysia%29.svg.png", TV3
 https://my.odtv.uk/live/9486331171/7860879594/12.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg", TV6
-https://rtm7hdhbbtv.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.m3u8
+
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png", NTV7 
 https://my.odtv.uk/live/9486331171/7860879594/30.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png", 8TV
@@ -23,11 +23,11 @@ https://my.odtv.uk/live/9486331171/7860879594/31.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/NewlogoTV9_%28Malaysia%29.png/100px-NewlogoTV9_%28Malaysia%29.png", TV9 
 https://my.odtv.uk/live/9486331171/7860879594/32.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.onenews.my/wp-content/uploads/2019/05/logo-for-web_repair.png", OneNews
-http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
+
 #EXTINF:-1, group-title="Malaysia",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Parliament_Of_Malaysia.svg/1200px-Parliament_Of_Malaysia.svg.png", Parlimen Malaysia
-https://rtmlive04.secureswiftcontent.com/rtmchannel/04-720.m3u8
+
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Berita_RTM_v2.png", Saluran Berita RTM
-http://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/media-udhb3nkl6_b1096000_10191.m3u8
+
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png", TV Alhijrah
 https://my.odtv.uk/live/9486331171/7860879594/24.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://cdn-radiotime-logos.tunein.com/s279310g.png", TV IKIM HD 
@@ -35,7 +35,7 @@ http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 #EXTINF:-1, group-title="Malaysia",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg", TV Sarawak
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png", RTM Sports HD 
-http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png", Astro Awani
 https://my.odtv.uk/live/9486331171/7860879594/193.ts
 #EXTINF:-1, group-title="Malaysia", tvg-logo="https://raw.githubusercontent.com/Media22/mediamuda/main/boo.png", Astro Boo 
@@ -45,7 +45,7 @@ https://my.odtv.uk/live/9486331171/7860879594/20.ts
 #EXTINF:-1, group-title="Malaysia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png", Astro Aura
 https://my.odtv.uk/live/9486331171/7860879594/23.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png", Astro AEC
-http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+
 #EXTINF:-1, group-title="Malaysia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png", Astro Rania
 https://my.odtv.uk/live/9486331171/7860879594/22.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png", Astro Ceria
@@ -53,7 +53,7 @@ https://my.odtv.uk/live/9486331171/7860879594/99.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra
 https://my.odtv.uk/live/9486331171/7860879594/19.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Hello_TV.png", Astro Hello
-http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png", Astro Prima
 https://my.odtv.uk/live/9486331171/7860879594/16.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png", Astro Ria
@@ -65,12 +65,12 @@ https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 #EXTINF:-1, group-title="Malaysia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png", Astro Oasis
 https://my.odtv.uk/live/9486331171/7860879594/17.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Hypp-Inspirasi.png", Hypp Inspirasi
-http://tigerfights.xyz:80/anh/123/2599367.ts
+
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://raw.githubusercontent.com/Media22/mediamuda/main/201907160659062937ij.png", Hypp Pesona HD
-http://iptv-team.tk:2082/live/umi/umi/36.m3u8
+
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://raw.githubusercontent.com/Media22/mediamuda/main/download.jpg", Hypp Sensasi
-http://tigerfights.xyz:80/anh/123/2599368.ts
+
 #EXTINF:-1, group-title="Malaysia", tvg-logo="https://raw.githubusercontent.com/Media22/mediamuda/main/tv%20pertiwi.jpg", Pertiwi TV
-https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
+
 #EXTINF:-1, group-title="Malaysia", tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png", Salam HD
-http://starshare.live:8080/live/567890/567890/19027.ts
+
