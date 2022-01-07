@@ -265,69 +265,94 @@ http://39.135.34.132:8080/000000001000/1000000002000008163/1.m3u8?channel-id=yst
 http://39.135.34.132:8080/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive
 
 
-#EXTINF:-1 group-title="News", Africanews Congo
-
-#EXTINF:-1 group-title="News", Al Jazeera English Qatar
+#EXTINF:-1 group-title="News",tvg-logo="", ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", Africanews Africa
+https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", Al Jazeera English Qatar
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8 
-#EXTINF:-1 group-title="News", Arirang TV Korea
+#EXTINF:-1 group-title="News",tvg-logo="", Arirang TV Korea
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8 
-#EXTINF:-1 group-title="News", BBC Parliment UK
+#EXTINF:-1 group-title="News",tvg-logo="", BBC Parliment UK
 
-#EXTINF:-1 group-title="News", BBC World News UK
-https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
-#EXTINF:-1 group-title="News", Bloomberg USA
+#EXTINF:-1 group-title="News",tvg-logo="", BBC World News UK
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", Bloomberg USA
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 group-title="News", CBN News USA
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:-1 group-title="News", CGTN China
+#EXTINF:-1 group-title="News",tvg-logo="", CBN News USA
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_3000_av-p.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", CBS News USA
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1 group-title="News",tvg-logo="", CNC China
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", CGTN China
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="News", Channel News Asia Singapore
-https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
-#EXTINF:-1 group-title="News", CNBC Singapore
+#EXTINF:-1 group-title="News",tvg-logo="", Channel News Asia Singapore
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", CNBC Singapore
 http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="News", CNN Indonesia
+#EXTINF:-1 group-title="News",tvg-logo="", CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:-1 group-title="News", CNN Philipines
+#EXTINF:-1 group-title="News",tvg-logo="", CNN Philipines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-#EXTINF:-1 group-title="News", CNN America
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="News", DD India
+#EXTINF:-1 group-title="News",tvg-logo="", CNN America
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", DD India
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1 group-title="News", DPRK Central TV North Korea
+#EXTINF:-1 group-title="News",tvg-logo="", DPRK Central TV North Korea
 http://tv.nknews.org/tvhls/stream.m3u8
-#EXTINF:-1 group-title="News", DW Germany
-https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8
-#EXTINF:-1 group-title="News", ET Now India
+#EXTINF:-1 group-title="News",tvg-logo="", DW Germany
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", ET Now India
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
-#EXTINF:-1 group-title="News", Euronews Europe
-https://edge01.iptv.digijadoo.net/live/euro_news/chunks.m3u8
-#EXTINF:-1 group-title="News", Fox News Channel USA
-https://gma2.blab.email/espnu.m3u8
-#EXTINF:-1 group-title="News", France 24
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="News", i24 News Israel
+#EXTINF:-1 group-title="News",tvg-logo="", Euronews Europe
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", Fox News Channel USA
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", i24 News Israel
 
-#EXTINF:-1 group-title="News", Jakarta Globe News Indonesia
+#EXTINF:-1 group-title="News",tvg-logo="", Global News Canada
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", Jakarta Globe News Indonesia
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
-#EXTINF:-1 group-title="News", NBC USA
+#EXTINF:-1 group-title="News",tvg-logo="", India Today India
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", Info Wars
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", Mirror Now India
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", NBC USA
 http://161.0.157.51/pltv/88888888/224/3221227040/01.m3u8
-#EXTINF:-1 group-title="News", NHK World Japan
-http://freeview.mywire.org:9090/streams/nhkwjp.m3u8    
-#EXTINF:-1 group-title="News", Parlimen Malaysia
+#EXTINF:-1 group-title="News",tvg-logo="", NDTV India
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8  
+#EXTINF:-1 group-title="News",tvg-logo="", Parlimen Malaysia
 https://rtmlfd01.secureswiftcontent.com/af2d10b332ec6d105ff527be54d9443a/master.m3u8
-#EXTINF:-1 group-title="News", Press TV Iran
-https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
-#EXTINF:-1 group-title="News", RT Russia
-https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
-#EXTINF:-1 group-title="News", Sky News Australia
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 group-title="News", Times Now India
+#EXTINF:-1 group-title="News",tvg-logo="", PBS World News USA
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", PTV Paksitan
+https://live.ptv.com.pk/live/ptvworld/playlist.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", Press TV Iran
+https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", Reuters Now USA
+https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", RT Russia
+https://rt-glb.gcdn.co/live/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", Sky News Australia
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", Sky News UK
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", Times Now India
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-#EXTINF:-1 group-title="News", TRT World Turkey
+#EXTINF:-1 group-title="News",tvg-logo="",TRT World Turkey
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 group-title="News", Weather Nation USA
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="", Weather Nation USA
 
+#EXTINF:-1 group-title="News",tvg-logo="", TYT USA
+https://tyt-samsungus.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1,group-title="Knowledge & Infotainment",Animal Planet
