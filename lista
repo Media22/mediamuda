@@ -25,7 +25,7 @@ https://my.odtv.uk/live/9486331171/7860879594/32.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.onenews.my/wp-content/uploads/2019/05/logo-for-web_repair.png", OneNews
 
 #EXTINF:-1, group-title="Malaysia",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Parliament_Of_Malaysia.svg/1200px-Parliament_Of_Malaysia.svg.png", Parlimen Malaysia
-
+https://rtmlfd01.secureswiftcontent.com/af2d10b332ec6d105ff527be54d9443a/master.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Berita_RTM_v2.png", Saluran Berita RTM
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png", TV Alhijrah
@@ -229,3 +229,150 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1,tvg-logo="https://live-radio-channels.com/media/tv-logo/id-u-channel-tv-5776-300x225.jpg"  group-title="Indonesia", U Channel
 http://210.210.155.35/qwr9ew/s/s41/01.m3u8
+
+
+#EXTINF:-1,group-title="China",CCTV 1
+http://39.135.34.132:8080/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV 2
+http://39.135.34.132:8080/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV 3
+http://39.135.34.132:8080/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV-4
+http://39.135.34.132:8080/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV 5
+http://39.135.34.132:8080/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV 6
+http://39.135.34.132:8080/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV 7
+http://39.135.34.132:8080/000000001000/7050628689018054317/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV 8
+http://39.135.34.132:8080/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV 9
+http://39.135.34.132:8080/000000001000/1000000001000028286/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV 10
+http://39.135.34.132:8080/000000001000/7019587760656900133/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV 11
+http://39.135.34.132:8080/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV 12
+http://39.135.34.132:8080/000000001000/1000000001000001640/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV 13
+http://39.135.34.132:8080/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV 14
+http://39.135.34.132:8080/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV 15
+http://39.135.34.132:8080/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV 17
+http://39.135.34.132:8080/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV 4
+http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
+
+#EXTINF:-1 group-title="News", Africanews Congo
+
+#EXTINF:-1 group-title="News", Al Jazeera English Qatar
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8 
+#EXTINF:-1 group-title="News", Arirang TV Korea
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8 
+#EXTINF:-1 group-title="News", BBC Parliment UK
+
+#EXTINF:-1 group-title="News", BBC World News UK
+https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+#EXTINF:-1 group-title="News", Bloomberg USA
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 group-title="News", CBN News USA
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 group-title="News", CGTN China
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="News", Channel News Asia Singapore
+https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
+#EXTINF:-1 group-title="News", CNBC Singapore
+http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="News", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 group-title="News", CNN Philipines
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1 group-title="News", CNN America
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="News", DD India
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 group-title="News", DPRK Central TV North Korea
+http://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 group-title="News", DW Germany
+https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8
+#EXTINF:-1 group-title="News", ET Now India
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:-1 group-title="News", Euronews Europe
+https://edge01.iptv.digijadoo.net/live/euro_news/chunks.m3u8
+#EXTINF:-1 group-title="News", Fox News Channel USA
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 group-title="News", France 24
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="News", i24 News Israel
+
+#EXTINF:-1 group-title="News", Jakarta Globe News Indonesia
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
+#EXTINF:-1 group-title="News", NBC USA
+http://161.0.157.51/pltv/88888888/224/3221227040/01.m3u8
+#EXTINF:-1 group-title="News", NHK World Japan
+http://freeview.mywire.org:9090/streams/nhkwjp.m3u8    
+#EXTINF:-1 group-title="News", Parlimen Malaysia
+https://rtmlfd01.secureswiftcontent.com/af2d10b332ec6d105ff527be54d9443a/master.m3u8
+#EXTINF:-1 group-title="News", Press TV Iran
+https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
+#EXTINF:-1 group-title="News", RT Russia
+https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
+#EXTINF:-1 group-title="News", Sky News Australia
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 group-title="News", Times Now India
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:-1 group-title="News", TRT World Turkey
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="News", Weather Nation USA
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+
+
+#EXTINF:-1,group-title="Knowledge & Infotainment",Animal Planet
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment",BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment",Crime & Investigation
+http://203.154.243.31:15001
+#EXTINF:-1, group-title="Knowledge & Infotainment", CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1, group-title="Knowledge & Infotainment", Channel V HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment",Discovery Channel
+http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment",Discovery HD
+
+#EXTINF:-1, group-title="Knowledge & Infotainment",Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment", HGTV
+
+#EXTINF:-1, group-title="Knowledge & Infotainment", History
+http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment", National Geographic
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment", National Geographic Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment",National Geographic People
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1, group-title="Knowledge & Infotainment", RT Documentary
+https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment", SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment", TLC
+http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment", UN TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment", HD Fashion
+
+#EXTINF:-1,group-title="Knowledge & Infotainment", UN TV
+
+#EXTINF:-1,group-title="Knowledge & Infotainment", UN TV
+
+#EXTINF:-1,group-title="Knowledge & Infotainment", UN TV
+
+
