@@ -185,34 +185,35 @@ http://58.65.171.202:8000/play/10552/index.m3u8
 https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
 #EXTINF:-1, group-title="Indonesia", tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg", Indonesia Channel
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Indonesia", Indosiar
-
-#EXTINF:-1,tvg-logo="https://i.imgur.com/99PkM23.png?v=2.0.0.13" group-title="Indonesia", iNews
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Indosiar_2015.svg" group-title="Indonesia", Indosiar
+http://tvnasional.mobie.in/M3U8/205.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Indonesia", iNews
 https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/rg1rTkj.png?v=2.0.0.13" group-title="Indonesia", Jakarta Globe News
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png" group-title="Indonesia", Jakarta Globe News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13" group-title="Indonesia", Kompas TV
-
-#EXTINF:-1, tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="Indonesia", Metro TV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/7/7a/20190116042347%21KOMPAS_TV_%282017%29.png" group-title="Indonesia", Kompas TV
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/500px-LogoMetroTVsince2010.svg.png" group-title="Indonesia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13" group-title="Indonesia", MNC TV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/1280px-MNCTV_MNC-Group.svg.png" group-title="Indonesia", MNC TV
 https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
-#EXTINF:-1,tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Indonesia", Net.TV
+#EXTINF:-1,tvg-logo="https://www.dafont.com/forum/attach/orig/8/2/827069.jpg" group-title="Indonesia", Net.TV
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Logo_nusantaratv.png" group-title="Indonesia", Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13" group-title="Indonesia", RCTI
+#EXTINF:-1tvg-logo="https://img.favpng.com/18/17/21/rcti-television-logo-gtv-sctv-png-favpng-vWEuiFrAXP3yiTcr4pNsQ3zfB.jpg" group-title="Indonesia", RCTI
 https://fta.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=2.0.0.13" group-title="Indonesia", RTV
-
-#EXTINF:-1, tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="Indonesia", SCTV
-
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/382/653/png-clipart-rtv-logo-television-channel-rajawali-corporation-rajawali-television-blue.png" group-title="Indonesia", RTV
+http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="Indonesia", SCTV
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/lewjYAw.png" group-title="Indonesia", Sinema Indonesia
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Indonesia", TRANS TV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png" group-title="Indonesia", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8 
-#EXTINF:-1,tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="Indonesia", TRANS 7
+#EXTINF:-1,tvg-logo="https://www.coolstreaming.us/img/ch/image86971027358.jpg" group-title="Indonesia", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/800px-TVRILogo2019.svg.png" group-title="Indonesia", TVRI HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13"  group-title="Indonesia", TV One
+https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
