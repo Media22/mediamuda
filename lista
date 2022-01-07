@@ -181,9 +181,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2013109018_b
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1, group-title="Indonesia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/800px-Disney_Junior_logo.png", Disney Jr Indonesia
 http://58.65.171.202:8000/play/10552/index.m3u8
-#EXTINF:-1, group-title="Indonesia" tvg-logo="https://i.postimg.cc/RN9dVxdF/GLOBALTV.png", Global TV
+#EXTINF:-1, group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png", Global TV
 https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
-#EXTINF:-1, group-title="Indonesia", Indonesia Channel
+#EXTINF:-1, group-title="Indonesia", tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg", Indonesia Channel
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Indonesia", Indosiar
 
