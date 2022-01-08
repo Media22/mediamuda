@@ -479,9 +479,6 @@ https://obs.line-scdn.net/0hFBCtdz7kGW1-DTPeYwlmOk1bGgJNYQpuGjtIcy5jT1RbPFkyRG1U
 #EXTVLCOPT:network-caching=1000
 https://obs.line-scdn.net/0h2gObp0LwbUhyG0f6hhQSH05NbidBd35LFi08ViJ1MHldKSocTX8iKVcTYSxbLyoYC3xyLlQYMn1W/720p.m3u8
 
-#EXTINF:0 group-title="VOD Filem Asia" Alas Pati Hutan Mati
-#EXTVLCOPT:network-caching=1000
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Alas_Pati_Hutan_Mati_2018.mp4
 #EXTINF:-1 group-title="VOD Filem Asia" tvg-logo="https://www.themoviedb.org/t/p/w500/dz0Rnu1F8LB75D54EgJSzYwuW2r.jpg", Fighter in the Wind (2004)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Fighter%20in%20the%20Wind%202004.mp4
 #EXTINF:-1 group-title="VOD Filem Asia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjBmOWZmMmYtODZjZC00NGYxLWI3MTktYTk5ODQ1ZGIwZmQyXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg", The Cat (2011)
@@ -926,7 +923,5 @@ https://tutu.yuhuu.workers.dev/Indonesia/Ada%2520Apa%2520Dengan%2520Cinta%25202%
 https://tutu.yuhuu.workers.dev/Indonesia/Gundala%2520(2019)/Gundala.2019.WEB-DL.720p.FMZM.mkv
 #EXTINF:-1 group-title="VOD Filem Asia" tvg-logo="https://www.themoviedb.org/t/p/w500/3v22y85Wv0N84fzFvNZxyBrZKYG.jpg", Lampor Keranda Terbang
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Lampor-%20Keranda%20Terbang%20(2019).mp4
-
-
 
 
