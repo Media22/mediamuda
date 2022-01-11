@@ -170,7 +170,7 @@ https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch0
 #EXTINF:-1, tvg-logo="http://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-6.png" group-title="Indonesia", AdiTV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://photos.live-tv-channels.org/tv-logo/id-antv-9615.jpg" group-title="Indonesia", ANTV
-http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+http://cdn4.mbahnunungonline.net/m3u8/id/b630a001384603f.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" group-title="Indonesia", Berita Satu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 #EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-3FNJE69u8Gk/W9yMvE3XYBI/AAAAAAAAJ7M/zWiB51aguT0mV1Yh_PiosfmLmlbHhblewCLcBGAs/s1600/bioskopindonesia.png?v=1.0.0.0" group-title="Indonesia", Bioskop Indonesia
@@ -185,16 +185,16 @@ http://210.210.155.35/qwr9ew/s/s13/02.m3u8
 http://210.210.155.35/x6bnqe/s/s35/S4/mnf.m3u8
 #EXTINF:-1, group-title="Indonesia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/800px-Disney_Junior_logo.png", Disney Jr Indonesia
 http://58.65.171.202:8000/play/10552/index.m3u8
-#EXTINF:-1, group-title="Indonesia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/ElshintaTV2019.png", Indonesia Channel
-http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1, group-title="Indonesia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/ElshintaTV2019.png", Elshinta TV
+http://cdn4.mbahnunungonline.net/m3u8/id/383fb71f4a76ab2.m3u8
 #EXTINF:-1, group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png", Global TV
-https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
+http://cdn4.mbahnunungonline.net/m3u8/id/df56d15c1ad325a.m3u8
 #EXTINF:-1, group-title="Indonesia", tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg", Indonesia Channel
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Indosiar_2015.svg" group-title="Indonesia", Indosiar
-http://210.210.155.35/qwr9ew/s/s104/02.m3u8
+http://cdn4.mbahnunungonline.net/m3u8/id/575eeb9f08dc8db.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Indonesia", iNews
-https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
+http://cdn4.mbahnunungonline.net/m3u8/id/2f760b7cf8286be.m3u8
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png" group-title="Indonesia", Jakarta Globe News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/7/7a/20190116042347%21KOMPAS_TV_%282017%29.png" group-title="Indonesia", Kompas TV
@@ -204,19 +204,19 @@ http://210.210.155.35/x6bnqe/s/s36/S1/mnf.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/500px-LogoMetroTVsince2010.svg.png" group-title="Indonesia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/1280px-MNCTV_MNC-Group.svg.png" group-title="Indonesia", MNC TV
-https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+http://cdn4.mbahnunungonline.net/m3u8/id/d9bbf6929ec1028.m3u8
 #EXTINF:-1,tvg-logo="https://www.dafont.com/forum/attach/orig/8/2/827069.jpg" group-title="Indonesia", Net.TV
-http://210.210.155.35//qwr9ew/s/s08/01.m3u8
+http://cdn4.mbahnunungonline.net/m3u8/id/6cdb3402d11f58d.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Logo_nusantaratv.png" group-title="Indonesia", Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1tvg-logo="https://img.favpng.com/18/17/21/rcti-television-logo-gtv-sctv-png-favpng-vWEuiFrAXP3yiTcr4pNsQ3zfB.jpg" group-title="Indonesia", RCTI
-https://fta.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
-#EXTINF:-1tvg-logo="http://www.radioonline.id/wp-content/uploads/2017/07/audio-rodja-tv-1.png" group-title="Indonesia", Rodja TV
+http://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
+#EXTINF:-1 tvg-logo="http://www.radioonline.id/wp-content/uploads/2017/07/audio-rodja-tv-1.png" group-title="Indonesia", Rodja TV
 http://210.210.155.35/qwr9ew/s/s14/01.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/382/653/png-clipart-rtv-logo-television-channel-rajawali-corporation-rajawali-television-blue.png" group-title="Indonesia", RTV
 http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="Indonesia", SCTV
-https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
+http://cdn4.mbahnunungonline.net/m3u8/id/2b8fc230e8f847a.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/lewjYAw.png" group-title="Indonesia", Sinema Indonesia
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png" group-title="Indonesia", TRANS TV
@@ -263,6 +263,28 @@ http://39.135.34.132:8080/000000001000/8203666801302077036/1.m3u8?channel-id=yst
 http://39.135.34.132:8080/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive
 #EXTINF:-1,group-title="China",CCTV 17
 http://39.135.34.132:8080/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/B4U-Kadak.jpg" group-title="India" B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1,tvg-logo="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2020/08/15/879305-pictures.jpg" group-title="India" &Pictures
+http://208.86.19.21:80/705.stream/index.m3u8
+#EXTINF:-1,tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-cinema.png" group-title="India" Zee Cinema
+http://208.115.215.42/ZEE_CInema_HD/index.m3u8
+#EXTINF:-1,tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png" group-title="India" Zee Bollywood
+http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-ucvF1nRcTBg/XYVPnS2WRLI/AAAAAAAAoj8/pufdg3l_fHsH_U6qg6omEEghZaVVy22ggCLcBGAsYHQ/s1600/zee-bioskop-channel-tv-logo.png" group-title="India" Zee Bioskop
+http://group2-swiftservesd-1.dens.tv/s/s32/index.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="India" Sony MAX HD
+http://208.86.19.21:80/706.stream/index.m3u8
+#EXTINF:-1,tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_819/LANDSCAPE_43/gZMfypMa.png" group-title="India" Zee Action
+http://208.115.215.42/ZEE_ActIon_HD/index.m3u8
+
+#EXTINF:-1 group-title="Movies",tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png", CCM
+http://group2-swiftservesd-1.dens.tv/s/s31/index.m3u8
+#EXTINF:-1 group-title="Movies",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg", Thrill
+http://group2-swiftservesd-1.dens.tv/s/s34/index.m3u8
+#EXTINF:-1 group-title="Movies",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Warner_Bros._Television_Studios.png", Warner TV
+https://cubmu.superzap.xyz:8279/WARNER/playlist.m3u8
 
 
 #EXTINF:-1 group-title="News",tvg-logo="", ABC News Australia
