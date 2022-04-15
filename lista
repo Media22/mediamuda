@@ -487,31 +487,31 @@ http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/
 #EXTINF:-1, group-title="Kids", tvg-logo="", MY KIDS
 http://210.210.155.35/uq2663/h/h98/index.m3u8
 #EXTINF:-1, group-title="Kids", tvg-logo="", SpaceToon
-http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
+
 #EXTINF:-1, group-title="Kids", tvg-logo="", Learnings
 http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1, group-title="Kids", tvg-logo="", Boomerangs
-http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28803?token=TURYAhZYEAwSVVUCW1AFUFEHBlMFCQpXA1JRBgdYAlNUBQYAXFYCBwdGTxBLF0AGVA9uD1IbCQQJC1QGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFVwxeD1FdAFIcQRVZVhQKRloACFQQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBFQHQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAFSBVoXHw==
+
 #EXTINF:-1, group-title="Kids", tvg-logo="", Kids Toons
 http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/01.m3u8
-#EXTINF:-1, group-title="Kids", tvg-logo="", cbabiess
-http://58.65.171.202:8000/play/2009/index.m3u8
+#EXTINF:-1, group-title="Kids", tvg-logo="", Cbeebies
+
 #EXTINF:-1, group-title="Kids", tvg-logo="", Kids Pluto2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1, group-title="Kids", tvg-logo="", Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1, group-title="Kids", tvg-logo="", NickJR
-http://62.210.127.217:8080/FQWA9E9wHF/nWYRuhPJwe/28656?token=TURYAhZYEAwSU1QBDlAKAgEGA1dSXQdSB1YHBQQNXlcOVwUGVFILBgVGTxBLF0AGVA9uD1IbCQQJBVEDShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARTCFRVD1IcQRVZVhQKRlIADlEDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1UFWxNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpQA1QAWhMb
+
 #EXTINF:-1, group-title="Kids", tvg-logo="", Nickelodeon
-https://cubmu.nomaden.tv:8279/NICKELODEON/playlist.m3u8
+
 #EXTINF:-1, group-title="Kids", tvg-logo="", Miaomix
-http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28755?token=TURYAhZYEAwSBlVUDlsDVABQBFYOWwsGAFdUA1UPUF0GUglQUgcEUgRGTxBLF0AGVA9uD1IbCQQJC1UDShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSC19SBlccQRVZVhQKRlEHCVYDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAFQFVRNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpRA1cNUBMb
+
 #EXTINF:-1, group-title="Kids", tvg-logo="", Carton networks
-https://cubmu.nomaden.tv:8279/CARTOON/playlist.m3u8
+
 #EXTINF:-1, group-title="Kids", tvg-logo="", Dunia Anak
-https://cubmu.nomaden.tv:8279/DUNIAANAK/playlist.m3u8
+
 #EXTINF:-1, group-title="Kids", tvg-logo="", Davinci
-https://cubmu.nomaden.tv:8279/DAVINCI/playlist.m3u8
+
 
 #EXTINF:-1, group-title="Sports", tvg-logo="", Motorvision
 http://210.210.155.35/uq2663/h/h09/01.m3u8
