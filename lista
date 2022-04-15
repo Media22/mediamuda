@@ -188,7 +188,7 @@ http://210.210.155.35/x6bnqe/s/s35/S4/mnf.m3u8
 #EXTINF:-1, group-title="Indonesia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/ElshintaTV2019.png", Elshinta TV
 
 #EXTINF:-1, group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png", Global TV
-
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1, group-title="Indonesia", tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg", Indonesia Channel
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Indosiar_2015.svg" group-title="Indonesia", Indosiar
@@ -204,25 +204,25 @@ http://210.210.155.35/x6bnqe/s/s36/S1/mnf.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/500px-LogoMetroTVsince2010.svg.png" group-title="Indonesia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/1280px-MNCTV_MNC-Group.svg.png" group-title="Indonesia", MNC TV
-
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1, tvg-logo="https://www.dafont.com/forum/attach/orig/8/2/827069.jpg" group-title="Indonesia", Net.TV
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Logo_nusantaratv.png" group-title="Indonesia", Nusantara TV
 
 #EXTINF:-1, tvg-logo="https://img.favpng.com/18/17/21/rcti-television-logo-gtv-sctv-png-favpng-vWEuiFrAXP3yiTcr4pNsQ3zfB.jpg" group-title="Indonesia", RCTI
-
+https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-logo="http://www.radioonline.id/wp-content/uploads/2017/07/audio-rodja-tv-1.png" group-title="Indonesia", Rodja TV
 http://210.210.155.35/qwr9ew/s/s14/01.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/382/653/png-clipart-rtv-logo-television-channel-rajawali-corporation-rajawali-television-blue.png" group-title="Indonesia", RTV
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="Indonesia", SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1,tvg-logo="https://i.imgur.com/lewjYAw.png" group-title="Indonesia", Sinema Indonesia
-
+#EXTINF:-1, group-title="Indonesia", SEA Today
+https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png" group-title="Indonesia", TRANS TV
-
+https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:-1,tvg-logo="https://www.coolstreaming.us/img/ch/image86971027358.jpg" group-title="Indonesia", TRANS 7
-
+https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/800px-TVRILogo2019.svg.png" group-title="Indonesia", TVRI HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/1200px-TvOne_Logo%282011%29.svg.png"  group-title="Indonesia", TV One
@@ -319,7 +319,7 @@ http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 group-title="News",tvg-logo="", CGTN China
 
 #EXTINF:-1 group-title="News",tvg-logo="", Channel News Asia Singapore
-
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="News",tvg-logo="", CNBC Singapore
 http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 #EXTINF:-1 group-title="News",tvg-logo="", CNN Indonesia
@@ -513,18 +513,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395
 #EXTINF:-1, group-title="Kids", tvg-logo="", Davinci
 
 
-#EXTINF:-1, group-title="Sports", tvg-logo="", Motorvision
-http://210.210.155.35/uq2663/h/h09/01.m3u8
-#EXTINF:-1, group-title="Sports", tvg-logo="", Looksport 1
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
-#EXTINF:-1, group-title="Sports", tvg-logo="", Looksport 2
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
-#EXTINF:-1, group-title="Sports", tvg-logo="", Looksport 3
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
-#EXTINF:-1,F group-title="Sports", tvg-logo="", oXSport Australia
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
-#EXTINF:-1, group-title="Sports", tvg-logo="", Bein 1
-http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28731?token=TURYAhZYEAwSVQUFAAIEVlMGA1JVW1EDUgEFU14PUQMEBAFXVwIFAgdGTxBLF0AGVA9uD1IbCQQJBFcEShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARQCVRTBlQcQRVZVhQKRlIFDloDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1YNUBNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSBVIBVBMb
+
 
 #EXTINF:0 group-title="VOD MR. BEAN", Mr Bean Ep1
 #EXTVLCOPT:network-caching=1000
