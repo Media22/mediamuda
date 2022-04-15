@@ -19,9 +19,9 @@ https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png", NTV7 
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png", 8TV
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/NewlogoTV9_%28Malaysia%29.png/100px-NewlogoTV9_%28Malaysia%29.png", TV9 
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.onenews.my/wp-content/uploads/2019/05/logo-for-web_repair.png", OneNews
 
 #EXTINF:-1, group-title="Malaysia",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Parliament_Of_Malaysia.svg/1200px-Parliament_Of_Malaysia.svg.png", Parlimen Malaysia
@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://cdn-radiotime-logos.tunein.com/s279310g.png", TV IKIM HD 
 
 #EXTINF:-1, group-title="Malaysia",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg", TV Sarawak
-https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS.m3u8
+
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png", Sukan RTM
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png", Astro Awani
@@ -82,7 +82,7 @@ http://node-02.zeno.fm/555kr7upam0uv.aac?rj-ttl=5&rj-tok=AAABeT8e5HIA8EFX1cMpkIy
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/asyik-kuala-lumpur.png" group-title="Radio" tvg-id="875" tvg-name="875", ASYIK FM
 https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png" group-title="Radio" tvg-id="867" tvg-name="867", BAYU
-http://ingest2.astro4.rastream.com/bayu
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Catsfmlogo.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", CATS FM
 http://catsfm64.cspixel.com:7111/stream/1/
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png" group-title="Radio" tvg-id="860" tvg-name="860", CLASSIC ROCK
@@ -146,7 +146,7 @@ https://perakfmmobile.secureswiftcontent.com/rtm-ch038/rtm-ch038/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/uzffezhcg5xq.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", PERLIS FM
 https://perlisfmmobile.secureswiftcontent.com/rtm-ch040/rtm-ch040/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/304_144.png" group-title="Radio" tvg-id="878" tvg-name="878", Radio ARENA
-http://astro1.rastream.com/amp-arena?type=.flv
+
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-zmMHq3VwLOc/USxZ58eYNeI/AAAAAAAABgA/RaFT3UHJ8wY/s1600/Klasik+Nasional+FM.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", RADIO KLASIK
 https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/rtm-sabah-fm.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", SABAH FM
