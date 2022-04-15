@@ -386,15 +386,15 @@ http://playlist.urfan.web.id/uq2663/h/h156/S4/mnf.m3u8
 https://tyt-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,group-title="Knowledge & Infotainment",AMC Absolute Reality
-https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1,group-title="Knowledge & Infotainment",Animal Planet
 
 #EXTINF:-1,group-title="Knowledge & Infotainment",BBC Earth
-http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28809?token=TURYAhZYEAwSBlVUDlsDVABQBFYOWwsGAFdUA1UPUF0GUglQUgcEUgRGTxBLF0AGVA9uD1IbCQQJC1UDShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSC19SBlccQRVZVhQKRlEHCVYDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAFQFVRNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpRA1cNUBMb
+
 #EXTINF:-1,group-title="Knowledge & Infotainment",Crime Time
 https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1, group-title="Knowledge & Infotainment", CGTN Documentary
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
 #EXTINF:-1, group-title="Knowledge & Infotainment", Cinelife
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1, group-title="Knowledge & Infotainment", Comedy Dinamics
@@ -416,7 +416,7 @@ https://obsession-media.sinclair.wurl.com/manifest/1200.m3u8
 #EXTINF:-1,group-title="Knowledge & Infotainment", HGTV
 
 #EXTINF:-1, group-title="Knowledge & Infotainment", History
-http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28767?token=TURYAhZYEAwSAVcFXlIFWwFVB14BAQsOCAEFVFELBFdVUQJWBFJXDlZGTxBLF0AGVA9uD1IbCQQJBFICShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARQCVRXBlYcQRVZVhQKRlICAVMBQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1ICUxNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSAlsNUxMb
+
 #EXTINF:-1, group-title="Knowledge & Infotainment", Horse & Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1, group-title="Knowledge & Infotainment", Insight TV
@@ -434,15 +434,15 @@ http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 #EXTINF:-1, group-title="Knowledge & Infotainment", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1, group-title="Knowledge & Infotainment", Magellan TV
-https://magellantv-1.plex.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1, group-title="Knowledge & Infotainment", Maori TV
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
+
 #EXTINF:-1,group-title="Knowledge & Infotainment", National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1,group-title="Knowledge & Infotainment", National Geographic
-http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28752?token=TURYAhZYEAwSVVpWXlYBBwEACAIDXFFQUwYGUVYOXwEPBAFWBAILUAhGTxBLF0AGVA9uD1IbCQQJBFEHShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSCldWA1EcQRVZVhQKRlcAAVIQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBFoFQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAxRClIXHw==
+
 #EXTINF:-1,group-title="Knowledge & Infotainment", National Geographic Wild
-http://62.210.127.217:8080/FQWA9E9wHF/nWYRuhPJwe/28657?token=TURYAhZYEAwSVFFUDVpUUQJSAQQHCAEBA1BXBgRaUgQDAwhXBlFQBwZGTxBLF0AGVA9uD1IbCQQJBVECShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARTCFVRAlMcQRVZVhQKRlEEAVYAQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAINRw9ZThMFWUxdQkNKRg9EcCJHGkRVGxFVXEVZCw0QAkFGEBdOEw9FZkFTQkcWUAdUAxcUXBJTRxwQW1EcPFFXDVwGVhZYCVhKEQwTAkYZRFQJC18SXxE6QFtSEl5BAA5aAlYXHw==
+
 #EXTINF:-1,group-title="Knowledge & Infotainment",National Geographic People
 
 #EXTINF:-1,group-title="Knowledge & Infotainment", NASA TV
@@ -468,7 +468,7 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1,group-title="Knowledge & Infotainment", HD Fashion
 
 #EXTINF:-1,group-title="Knowledge & Infotainment", Viasat History HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+
 #EXTINF:-1,group-title="Knowledge & Infotainment", Voyager Documentaries
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
 #EXTINF:-1,group-title="Knowledge & Infotainment", Weather Gone Viral
