@@ -262,62 +262,21 @@ http://39.135.34.132:8080/000000001000/8203666801302077036/1.m3u8?channel-id=yst
 #EXTINF:-1,group-title="China",CCTV 15
 http://39.135.34.132:8080/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive
 #EXTINF:-1,group-title="China",CCTV 17
-http://39.135.34.132:8080/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive
 
-#EXTINF:-1, group-title="India", tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/B4U-Kadak.jpg", B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1, group-title="India", tvg-logo="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2020/08/15/879305-pictures.jpg", &Pictures
-http://208.86.19.21:80/705.stream/index.m3u8
-#EXTINF:-1, group-title="India", tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-cinema.png" group-title="India" Zee Cinema
-http://208.115.215.42/ZEE_CInema_HD/index.m3u8
-#EXTINF:-1, group-title="India", tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png" group-title="India" Zee Bollywood
-http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
-#EXTINF:-1, group-title="India", tvg-logo="https://1.bp.blogspot.com/-ucvF1nRcTBg/XYVPnS2WRLI/AAAAAAAAoj8/pufdg3l_fHsH_U6qg6omEEghZaVVy22ggCLcBGAsYHQ/s1600/zee-bioskop-channel-tv-logo.png", Zee Bioskop
-http://group2-swiftservesd-1.dens.tv/s/s32/index.m3u8
-#EXTINF:-1, group-title="India", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png", Sony MAX HD
-http://208.86.19.21:80/706.stream/index.m3u8
-#EXTINF:-1, group-title="India", tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_819/LANDSCAPE_43/gZMfypMa.png", Zee Action
-http://208.115.215.42/ZEE_ActIon_HD/index.m3u8
+
 
 #EXTINF:-1 group-title="Movies",tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png", CCM
-http://group2-swiftservesd-1.dens.tv/s/s31/index.m3u8
-#EXTINF:-1 group-title="Movies", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg", Thrill
-http://group2-swiftservesd-1.dens.tv/s/s34/index.m3u8
-#EXTINF:-1 group-title="Movies", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Warner_Bros._Television_Studios.png", Warner TV
-https://cubmu.superzap.xyz:8279/WARNER/playlist.m3u8
-#EXTINF:-1, group-title="Movies",tvg-logo="", FOXHD
-http://58.65.171.202:8000/play/3111/index.m3u8
-#EXTINF:-1, group-title="Movies",tvg-logo="", &Prive
-http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34478?token=TURYAhZYEAwSVFZWXVMFUg0HV1QACFUOCFAADAAPVVAPBFEBXFQDAgJGTxBLF0AGVA9uD1IbCQUFB1MNShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RTBFMcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1, group-title="Movies",tvg-logo="", &Flix
-http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34503?token=TURYAhZYEAwSXQIBCVcCBwAHAVMADFEPBQpTBlAJBFQCUwJTBgAFVFVGTxBLF0AGVA9uD1IbCQUFBlQGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RQD1ccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1, group-title="Movies",tvg-logo="", FilmRise Sci-Fi
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
-#EXTINF:-1, group-title="Movies",tvg-logo="", Movies Now
-http://103.131.212.138:8000/play/a034/index.m3u8
-#EXTINF:-1, group-title="Movies",tvg-logo="", Comedy Redbox
-https://comedy-redbox.amagi.tv/amRdirect/p=Redbox&subp=RedboxdesktopWebLinux/hls/amagi_hls_data_redboxAAA-comedy/CDN/640x360_765600/index.m3u8
-#EXTINF:-1, group-title="Movies",tvg-logo="", MY TIME
-https://mytime-tcl.amagi.tv/playlist404-p.m3u8
 
-#EXTINF:-1, group-title="Movies",tvg-logo="", tvN
-http://210.210.155.35:80/dr9445/h/h20/01.m3u8
-#EXTINF:-1, group-title="Movies",tvg-logo="", tvNMovies
-http://210.210.155.35:80/dr9445/h/h21/01.m3u8
-#EXTINF:-1, group-title="Movies",tvg-logo="", AXN-2
-http://45.126.83.51/dr9445/h/h141/01.m3u8
-#EXTINF:-1, group-title="Movies",tvg-logo="", BLUEANT EXTREME
-http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/01.m3u8
-#EXTINF:-1, group-title="Movies",tvg-logo="", BLUEANT ENTERTAINMENT
-http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/01.m3u8
-#EXTINF:-1, group-title="Movies",tvg-logo="", CINEMA WORLD
-http://210.210.155.35/dr9445/h/h04/01.m3u8
-#EXTINF:-1, group-title="Movies",tvg-logo="", CinemA Europe
-http://210.210.155.35:80/uq2663/h/h18/01.m3u8
-#EXTINF:-1, group-title="Movies",tvg-logo="", MyCinema Asia
-http://210.210.155.35/x6bnqe/h/h193/index.m3u8
-#EXTINF:-1, group-title="Movies",tvg-logo="", MyCinemA Family
-http://210.210.155.35/x6bnqe/h/h194/index.m3u8
+#EXTINF:-1 group-title="Movies", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg", Thrill
+
+#EXTINF:-1 group-title="Movies", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Warner_Bros._Television_Studios.png", Warner TV
+
+#EXTINF:-1, group-title="Movies",tvg-logo="", FOXHD
+
+#EXTINF:-1, group-title="Movies",tvg-logo="", &Prive
+
+#EXTINF:-1, group-title="Movies",tvg-logo="", &Flix
+
 #EXTINF:-1, group-title="Movies",tvg-logo="", K+
 http://45.126.83.51/session/b250033c-a9b8-11eb-b3bc-a2798f0477fc/uq2663/h/h08/01.m3u8
 #EXTINF:-1, group-title="Movies",tvg-logo="", SonyOne
