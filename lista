@@ -1,78 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1, group-title="Malaysia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", Awesome TV
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bernama_News_Channel_Logo.png/220px-Bernama_News_Channel_Logo.png", Bernama TV
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Drama_Sangat_HQ.jpg/80px-Drama_Sangat_HQ.jpg", Drama Sangat
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okey_RTM.png/150px-Okey_RTM.png", OKEY 
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/TV1_Logo_2011.png/100px-TV1_Logo_2011.png", TV1 
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/TV2_Logo_2011.png/100px-TV2_Logo_2011.png", TV2 
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/TV1_Logo_2011.png/100px-TV1_Logo_2011.png", TV1 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/TV2_Logo_2011.png/100px-TV2_Logo_2011.png", TV2 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/100px-TV3_%28Malaysia%29.svg.png", TV3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg", TV6
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg", TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png", NTV7 
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png", 8TV
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/NewlogoTV9_%28Malaysia%29.png/100px-NewlogoTV9_%28Malaysia%29.png", TV9 
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.onenews.my/wp-content/uploads/2019/05/logo-for-web_repair.png", OneNews
-
-#EXTINF:-1, group-title="Malaysia",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Parliament_Of_Malaysia.svg/1200px-Parliament_Of_Malaysia.svg.png", Parlimen Malaysia
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Berita_RTM_v2.png", Saluran Berita RTM
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png", TV Alhijrah
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://cdn-radiotime-logos.tunein.com/s279310g.png", TV IKIM HD 
-
-#EXTINF:-1, group-title="Malaysia",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg", TV Sarawak
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png", Sukan RTM
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png", Astro Awani
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/NTV7_logo_%282018%29.png/50px-NTV7_logo_%282018%29.png", NTV7 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png", 8TV https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/NewlogoTV9_%28Malaysia%29.png/100px-NewlogoTV9_%28Malaysia%29.png", TV9 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okey_RTM.png/150px-Okey_RTM.png", OKEY
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://freeview.github.io/iptv/logos/bernama.png", Bernama TV
+https://weareblahs.github.io/yttestlabs/youtube.m3u
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Awani.jpg", Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1, group-title="Malaysia", tvg-logo="https://raw.githubusercontent.com/Media22/mediamuda/main/boo.png", Astro Boo 
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://ms.wikipedia.org/wiki/Sukan_RTM#/media/Fail:SUKAN_RTM.jpg", Sukan RTM
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://en.wikipedia.org/wiki/Berita_RTM#/media/File:Berita_RTM_v2.png", Saluran Berita RTM
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/TV_Alhijrah_Logo.jpg", TV AlHijrah
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://1.bp.blogspot.com/-7VCmfo92Zls/YTWfhHNpbGI/AAAAAAAAiEM/WBDJq1lf2FABp1IqDlqnU7BnN-RlNevpQCLcBGAsYHQ/s16000/SUKE_TV_Logo.png", Suke TV
 
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://i.imgur.com/FJ9sZJy.png", Astro Naura 
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/TVSARAWAK-logo-mobile.png", TV Sarawak
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Drama_Sangat_HQ.jpg", Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://github.com/Media22/mediamuda/blob/main/Dewan%20Rakyat.png", Dewan Rakyat Malaysia
+https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dewan_Negara_Parlimen_Malaysia.svg/170px-Dewan_Negara_Parlimen_Malaysia.svg.png", Dewan Negara Malaysia
+https://rtmlive08tv.secureswiftcontent.com/rtmchannel/08-manifest.mpd
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.tvikim.my/images/logo-header-02.png", TV IKIM HD 
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://tvpertiwi.com.my/wp-content/uploads/2022/04/FINAL-LOGO-PERTIWI-2022-02-2048x768.png", TV Pertiwi
+https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png", Hello
 
-#EXTINF:-1, group-title="Malaysia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png", Astro Aura
 
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png", Astro AEC
-
-#EXTINF:-1, group-title="Malaysia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png", Astro Rania
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png", Astro Ceria
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Hello_TV.png", Astro Hello
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png", Astro Prima
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png", Astro Ria
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png", Astro Warna
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Astro_Vaanavil_2020.png", Astro Vaanavil
-
-#EXTINF:-1, group-title="Malaysia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png", Astro Oasis
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Hypp-Inspirasi.png", Hypp Inspirasi
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://raw.githubusercontent.com/Media22/mediamuda/main/201907160659062937ij.png", Hypp Pesona HD
-
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://raw.githubusercontent.com/Media22/mediamuda/main/download.jpg", Hypp Sensasi
-
-#EXTINF:-1, group-title="Malaysia", tvg-logo="https://raw.githubusercontent.com/Media22/mediamuda/main/tv%20pertiwi.jpg", Pertiwi TV
-
-#EXTINF:-1, group-title="Malaysia", tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png", Salam HD
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://vectorise.net/logo/wp-content/uploads/2016/03/AI-FM-Logo-01.png" group-title="Radio" tvg-id="874" tvg-name="874", AI FM
