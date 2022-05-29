@@ -6,7 +6,7 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/100px-TV3_%28Malaysia%29.svg.png", TV3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
-#EXTINF:-1, group-title="Malaysia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg", TV6
+#EXTINF:-1, group-title="Malaysia", tvg-logo="", TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/NTV7_logo_%282018%29.png/50px-NTV7_logo_%282018%29.png", NTV7
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
@@ -30,7 +30,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 
 #EXTINF:-1, group-title="Malaysia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/TVSARAWAK-logo-mobile.png", TV Sarawak
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
-#EXTINF:-1, group-title="Malaysia", tvg-logo="", Drama Sangat
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://github.com/Media22/mediamuda/blob/main/drama%20sangat.png", Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 #EXTINF:-1, group-title="Malaysia", tvg-logo="https://github.com/Media22/mediamuda/blob/main/Dewan%20Rakyat.png", Dewan Rakyat Malaysia
 https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
