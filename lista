@@ -150,50 +150,50 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/1280px-MNCTV_MNC-Group.svg.png" group-title="Indonesia", MNCTV
 http://iptv12k.com:35461/80301051401/878900/2175
 
-#EXTINF:-1, tvg-logo=" " group-title="Indonesia", RCTI
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/RCTI_2015.png/1200px-RCTI_2015.png" group-title="Indonesia", RCTI
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="Indonesia", SCTV
 
-#EXTINF:-1, tvg-logo=" " group-title="Indonesia", Trans TV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png" group-title="Indonesia", Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo=" " group-title="Indonesia", Trans7
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/70/Trans_7.png" group-title="Indonesia", Trans7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo=" " group-title="Indonesia", tvOne
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/1200px-TvOne_Logo%282011%29.svg.png" group-title="Indonesia", tvOne
 
-#EXTINF:-1, tvg-logo=" " group-title="Indonesia", TVRI
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/800px-TVRILogo2019.svg.png" group-title="Indonesia", TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-logo=" " group-title="Indonesia", KompasTV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/7/7a/20190116042347%21KOMPAS_TV_%282017%29.png" group-title="Indonesia", KompasTV
 
-#EXTINF:-1, tvg-logo=" " group-title="Indonesia", Spacetoon
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Indonesia", Spacetoon
 
-#EXTINF:-1, tvg-logo=" " group-title="Indonesia", DAAI TV
+#EXTINF:-1, tvg-logo="https://www.dmidgroup.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-22-at-9.38.40-PM.png" group-title="Indonesia", DAAI TV
 
-#EXTINF:-1, tvg-logo=" " group-title="Indonesia", CNN Indonesia
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="Indonesia", CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#EXTINF:-1, tvg-logo=" " group-title="Indonesia", Nusantara TV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Logo_nusantaratv.png" group-title="Indonesia", Nusantara TV
 
-#EXTINF:-1, tvg-logo=" " group-title="Indonesia", JTV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/JTV_%28Indonesian_TV_channel%29.png/300px-JTV_%28Indonesian_TV_channel%29.png" group-title="Indonesia", JTV
 
-#EXTINF:-1, tvg-logo=" " group-title="Indonesia", Surau TV
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Surau_TV.png" group-title="Indonesia", Surau TV
 http://119.235.249.58:1935/surautv/live/playlist.m3u8
 
-#EXTINF:-1, tvg-logo=" " group-title="Indonesia", TVRI Sport
+#EXTINF:-1, tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="Indonesia", TVRI Sport
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
-#EXTINF:-1, tvg-logo=" " group-title="Indonesia", WesalTV
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Wesal_TV.png" group-title="Indonesia", WesalTV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 
-#EXTINF:-1, tvg-logo=" " group-title="Indonesia", Berita Satu
+#EXTINF:-1, tvg-logo="https://covid19.royalprogress.com/wp-content/uploads/2021/03/BeritaSatu.png" group-title="Indonesia", Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 
-#EXTINF:-1, tvg-logo=" " group-title="Indonesia", Berita Satu World
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/BeritaSatuWorld.png" group-title="Indonesia", Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_960x540.m3u8
 
-#EXTINF:-1, tvg-logo=" " group-title="Indonesia", Jakarta Globe News Channel
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png" group-title="Indonesia", Jakarta Globe News Channel
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b906000.m3u8
 
 
