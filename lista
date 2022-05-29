@@ -141,7 +141,7 @@ https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch0
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/768px-Antv_logo.svg.png" group-title="Indonesia", antv 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="Indonesia", Global TV
-
+https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-avc1_600000=5.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/500px-LogoMetroTVsince2010.svg.png" group-title="Indonesia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
@@ -151,7 +151,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356
 http://iptv12k.com:35461/80301051401/878900/2175
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/RCTI_2015.png/1200px-RCTI_2015.png" group-title="Indonesia", RCTI
-http://203.77.246.50:5000/udp/239.1.3.80:5000
+https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="Indonesia", SCTV
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png" group-title="Indonesia", Trans TV
