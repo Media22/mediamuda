@@ -18,13 +18,13 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Bernama_News_Channel_Logo.png", Bernama TV
 https://weareblahs.github.io/yttestlabs/youtube.m3u
-#EXTINF:-1, group-title="Malaysia", tvg-logo="https://freeview.github.io/iptv/logos/awani.png", Awani
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png", Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1, group-title="Malaysia", tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png", Sukan RTM
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://raw.githubusercontent.com/Media22/mediamuda/main/sukan%20rtm.png", Sukan RTM
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-#EXTINF:-1, group-title="Malaysia", tvg-logo="https://freeview.github.io/iptv/logos/bes.png", Saluran Berita RTM
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://raw.githubusercontent.com/Media22/mediamuda/main/berita%20rtm.png", Saluran Berita RTM
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
-#EXTINF:-1, group-title="Malaysia", tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png", TV AlHijrah
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://raw.githubusercontent.com/Media22/mediamuda/main/alhijrah.png", TV AlHijrah
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 #EXTINF:-1, group-title="Malaysia", tvg-logo="https://1.bp.blogspot.com/-7VCmfo92Zls/YTWfhHNpbGI/AAAAAAAAiEM/WBDJq1lf2FABp1IqDlqnU7BnN-RlNevpQCLcBGAsYHQ/s16000/SUKE_TV_Logo.png", Suke TV
 
@@ -34,7 +34,7 @@ https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 #EXTINF:-1, group-title="Malaysia", tvg-logo="https://raw.githubusercontent.com/Media22/mediamuda/main/Dewan%20Rakyat.png", Dewan Rakyat Malaysia
 https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
-#EXTINF:-1, group-title="Malaysia", tvg-logo="", Dewan Negara Malaysia
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://raw.githubusercontent.com/Media22/mediamuda/main/1024px-Dewan_Negara_Parlimen_Malaysia.png", Dewan Negara Malaysia
 https://rtmlive08tv.secureswiftcontent.com/rtmchannel/08-manifest.mpd
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.tvikim.my/images/logo-header-02.png", TV IKIM HD 
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
