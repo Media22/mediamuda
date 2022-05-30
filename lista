@@ -41,8 +41,20 @@ http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 #EXTINF:-1, group-title="Malaysia", tvg-logo="https://tvpertiwi.com.my/wp-content/uploads/2022/04/FINAL-LOGO-PERTIWI-2022-02-2048x768.png", TV Pertiwi
 https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
 #EXTINF:-1, group-title="Malaysia", tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png", Hello
+#EXTINF:-1, group-title="Malaysia", tvg-logo="", Ria
+http://axcestv.vip:8080/freeview/axcestv/453
+#EXTINF:-1, group-title="Malaysia", tvg-logo="", Prima
 
+#EXTINF:-1, group-title="Malaysia", tvg-logo="", Warna
+http://axcestv.vip:8080/freeview/axcestv/456
+#EXTINF:-1, group-title="Malaysia", tvg-logo="", Oasis
 
+#EXTINF:-1, group-title="Malaysia", tvg-logo="", Citra
+http://axcestv.vip:8080/freeview/axcestv/459
+#EXTINF:-1, group-title="Malaysia", tvg-logo="", Ria
+#EXTINF:-1, group-title="Malaysia", tvg-logo="", Ria
+#EXTINF:-1, group-title="Malaysia", tvg-logo="", Selangor TV
+https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://vectorise.net/logo/wp-content/uploads/2016/03/AI-FM-Logo-01.png" group-title="Radio" tvg-id="874" tvg-name="874", AI FM
@@ -146,14 +158,14 @@ https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-avc1_600
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Indosiar_2015.svg" group-title="Indonesia", Indosiar
-
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/1280px-MNCTV_MNC-Group.svg.png" group-title="Indonesia", MNCTV
 http://iptv12k.com:35461/80301051401/878900/2175
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/RCTI_2015.png/1200px-RCTI_2015.png" group-title="Indonesia", RCTI
 https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="Indonesia", SCTV
-
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png" group-title="Indonesia", Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
@@ -1374,9 +1386,9 @@ https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
 
 
 #EXTINF:-1 group-title="Movie Channel", &FlixHD
-
+http://axcestv.vip:8080/freeview/axcestv/510
 #EXTINF:-1 group-title="Movie Channel", &PriveHD
-
+http://axcestv.vip:8080/freeview/axcestv/511
 #EXTINF:-1 group-title="Movie Channel", American Horrors
 
 #EXTINF:-1 group-title="Movie Channel", IFC
@@ -1385,11 +1397,14 @@ https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", Horror Channel
 
-#EXTINF:-1 group-title="Movie Channel", 
+#EXTINF:-1 group-title="Movie Channel", My Cinema
+http://axcestv.vip:8080/freeview/axcestv/507
 
-#EXTINF:-1 group-title="Movie Channel", 
+#EXTINF:-1 group-title="Movie Channel", My Cinema Asia
+http://axcestv.vip:8080/freeview/axcestv/508
 
-#EXTINF:-1 group-title="Movie Channel", 
+#EXTINF:-1 group-title="Movie Channel", My Cinema Family
+http://axcestv.vip:8080/freeview/axcestv/509
 
 #EXTINF:-1 group-title="Movie Channel", 
 
@@ -1548,13 +1563,13 @@ https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/red_hbo.png", Red By HBO
 
 #EXTINF:-1 group-title="Movie Channel", Rasi Movies
-http://singamcloud.in:1935/rasinetwork/rasimovies/chunklist.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Reel PX Family
 
 #EXTINF:-1 group-title="Movie Channel", Reel PX Vintage
 
 #EXTINF:-1 group-title="Movie Channel", Romedy Now
-http://webo.asia:80/ghazanfar/ghazanfar/16564
+
 #EXTINF:-1 group-title="Movie Channel", Runtime
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/sinema_indonesia.png", Sinema Indonesia
@@ -1591,10 +1606,10 @@ http://webo.asia:80/ghazanfar/ghazanfar/16564
 
 #EXTINF:-1 group-title="Movie Channel", Star Gold HD
 
-#EXTINF:-1 group-title="Movie Channel", Star Movies HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movie Channel", Star Movies
+http://axcestv.vip:8080/freeview/axcestv/512
 #EXTINF:-1 group-title="Movie Channel", Star Movies Select
-http://webo.asia:80/ghazanfar/ghazanfar/161933
+http://axcestv.vip:8080/freeview/axcestv/513
 #EXTINF:-1 group-title="Movie Channel", Star Plus HD
 
 #EXTINF:-1 group-title="Movie Channel", Star World
@@ -1602,7 +1617,7 @@ http://webo.asia:80/ghazanfar/ghazanfar/161933
 #EXTINF:-1 group-title="Movie Channel", Starz
 
 #EXTINF:-1 group-title="Movie Channel", Syfy
-http://51.79.82.231:8080/US_SYFY_EAST_USA/video.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", TCM
 
 #EXTINF:-1 group-title="Movie Channel", Tamil TV
@@ -1610,7 +1625,7 @@ http://51.79.82.231:8080/US_SYFY_EAST_USA/video.m3u8
 #EXTINF:-1 group-title="Movie Channel", The Film Detective
 
 #EXTINF:-1 group-title="Movie Channel"tvg-logo="https://macan.live/img/thrill.png", Thrill
-http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Thrill/playlist.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Tollywood India
 
 #EXTINF:-1 group-title="Movie Channel", TNT
@@ -1618,9 +1633,9 @@ http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Thrill/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", TvN Movies
 
 #EXTINF:-1 group-title="Movie Channel", UTV Action
-http://185.71.64.6/8687122274/7806044871/83632
+
 #EXTINF:-1 group-title="Movie Channel", Warner TV
-https://my.odtv.uk/live/9486331171/7860879594/117.ts
+
 #EXTINF:-1 group-title="Movie Channel", Wow Cinema
 
 #EXTINF:-1 group-title="Movie Channel", Zee TV
@@ -1628,13 +1643,13 @@ https://my.odtv.uk/live/9486331171/7860879594/117.ts
 #EXTINF:-1 group-title="Movie Channel", Zee Aflam
 
 #EXTINF:-1 group-title="Movie Channel", Zee Action
-https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Zee Bollywood HD
 
 #EXTINF:-1 group-title="Movie Channel", Zee Cafe
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Zee Cinema HD
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Zee Classic
 
 
@@ -4894,3 +4909,33 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960220
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYmHfZD5hQylKsFe1pi79ZnHOZrsDxVe9sMQ&usqp=CAU" group-title="VOD English Film" tvg-id="" tvg-name="", Zack Snyders Justice League
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/1sementara-ja/Justice%20League%20-%20Synder%20Cut%20(2021)3.mp4
 
+#EXTINF:-1,Astro First-The Disappearance of Irdina Adhwa
+http://axcestv.vip:8080/freeview/axcestv/487
+#EXTINF:-1,Astro First- Jaga-Jaga Senariounion
+http://axcestv.vip:8080/freeview/axcestv/486
+#EXTINF:-1,Astro First- Gila Gusti
+http://axcestv.vip:8080/freeview/axcestv/488
+#EXTINF:-1,Astro First- Autumn In Wales
+http://axcestv.vip:8080/freeview/axcestv/489
+#EXTINF:-1,Astro First- Renjana
+http://axcestv.vip:8080/freeview/axcestv/490
+#EXTINF:-1,Astro First- Kabus
+http://axcestv.vip:8080/freeview/axcestv/491
+#EXTINF:-1,Astro First- Kedai Antik Wak Jambi
+http://axcestv.vip:8080/freeview/axcestv/492
+#EXTINF:-1,Astro First- Kg Pisang Berbuah Dua Kali
+http://axcestv.vip:8080/freeview/axcestv/493
+#EXTINF:-1,Astro First- Hantu Kuat Ketawa
+http://axcestv.vip:8080/freeview/axcestv/494
+#EXTINF:-1,Astro First- Hantu Mok Joh
+http://axcestv.vip:8080/freeview/axcestv/495
+#EXTINF:-1,Astro First- Marabahaya Underground
+http://axcestv.vip:8080/freeview/axcestv/496
+#EXTINF:-1,Astro First- Serangan Pocong
+http://axcestv.vip:8080/freeview/axcestv/497
+#EXTINF:-1,Astro First - Siapa Tutup Lampu?
+http://axcestv.vip:8080/freeview/axcestv/498
+#EXTINF:-1,Astro First - Hantu Ke Lima
+http://axcestv.vip:8080/freeview/axcestv/499
+#EXTINF:-1,Astro First -Penunggang Agama 2
+http://axcestv.vip:8080/freeview/axcestv/500
